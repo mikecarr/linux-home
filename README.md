@@ -1,7 +1,17 @@
 # linux-home
+* adds full vim
 
-
-To Install
+# Install
 ```
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/mikecarr/linux-home/master/install.sh)"
 ```
+
+or
+```
+sh -c "$(wget https://raw.githubusercontent.com/mikecarr/linux-home/master/install.sh)"
+```
+
+
+
+# Reference
+* http://dotfiles.github.io/
